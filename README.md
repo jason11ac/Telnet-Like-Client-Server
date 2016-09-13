@@ -1,7 +1,7 @@
 # Telnet-Like-Client-Server
 Multi-process, telnet-like, client and server
 
-This tarball contains 5 items:
+This project contains 5 items:
 
      1. The c code for the client side of the project in client.c.
      2. The c code for the server side of the project in server.c.
