@@ -7,13 +7,13 @@ This tarball contains 5 items:
      2. The c code for the server side of the project in server.c.
      3. The makefile that can be used with certain options to complete
         a number of tasks:
-	  - make: Makes both client and server executables from client.c
+	  	- make: Makes both client and server executables from client.c
 	          and server.c
-	  - make client: Makes just the client executable from client.c
-	  - make server: Makes just the server executable from server.c
-	  - make clean: Removes the makefile created executables, which
+	  	- make client: Makes just the client executable from client.c
+	  	- make server: Makes just the server executable from server.c
+	  	- make clean: Removes the makefile created executables, which
 	                include client and server
-	  - make dist: Build the tarball that contains all 5 items
+	  	- make dist: Build the tarball that contains all 5 items
      4. A key file my.key that contains the encryption key for the project.
      5. This README text file, which describes what everything in this final
         tarball is.
