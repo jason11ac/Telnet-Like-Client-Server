@@ -16,7 +16,7 @@ This project contains 5 items:
 	  	- make dist: Build the tarball that contains all 5 items
      4. A key file my.key that contains the encryption key for the project.
      5. This README text file, which describes what everything in this final
-        tarball is.
+        project is.
 
 The executables created by the makefile, client and server, can be used with
 specific arguments:
